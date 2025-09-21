@@ -11,3 +11,27 @@ I’m a dedicated senior developer fueled by curiosity and a passion for craftin
 💬 Reach out to chat about full-stack engineering, scalable architecture, or leadership strategies
 
 ⚡ Outside of code, I’m addicted to cracking tough algorithms and guiding the next generation of developers
+
+---
+
+🚧 Current Projects
+
+Designing and implementing cloud-native microservices architecture
+
+Developing AI-powered web applications
+
+🤝 Community & Mentorship
+
+Actively contributing to open-source projects
+
+Leading developer mentoring programs to nurture new talent
+
+🔍 Interests
+
+System Design
+
+DevOps & CI/CD pipelines
+
+Machine Learning innovations
+
+Open Source collaboration
